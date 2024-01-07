@@ -7,7 +7,7 @@ permalink: 'customfitknits'
 categories: front-page-projects
 tags: CustomFitKnits 
 featured_image: '/img/posts/CFK_Logo_Square.png'
-project_link: '/_posts/2023-01-05-customfitknits.md'
+project_link: '/_posts/2023-01-05-customfitknits'
 button_icon: 'fa-sweater'
 button_text: 'Learn More'
 lead_text: 'CustomFit writes sweater knitting patterns specifically to your numbers.'
